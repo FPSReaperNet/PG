@@ -4,7 +4,7 @@ The latest Playground Script
 pg.bat is source code
 pg___.bat is encypted with obf.bat
 
-(Yes I use AI to summarise My README.md files
+(Yes I use AI to summarise My README.md files)
 Modify code to your liking; no license required. Just have fun with this batch script!
 
 What it is and does:
