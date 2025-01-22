@@ -30,3 +30,5 @@ Data Access: The collected information will be available in your specified Disco
 # Disclaimer: Use at your own discretion. Ensure compliance with all applicable laws and regulations. The creators are not responsible for any legal issues arising from the use of this script.
 
 # Note: Always ensure you have explicit permission before running scripts that collect or transmit sensitive information.
+
+Also Yes The Webhook in there is deleted
